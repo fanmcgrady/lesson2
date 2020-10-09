@@ -1,0 +1,22 @@
+body {
+    font-size: 35px;
+}
+
+/*div {*/
+.text-style {
+    /*#text {*/
+    height: 100px;
+    width: auto;
+    text-align: center;
+    border: 1px solid royalblue;
+    color: #1059a8;
+    font-size: 20px;
+    padding: 20px;
+    margin: 20px;
+}
+
+table {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
